@@ -1,0 +1,80 @@
+{
+  "support_resistance": [
+    {
+      "price": 67016.91,
+      "strength": 15188
+    },
+    {
+      "price": 96513.69,
+      "strength": 11143
+    },
+    {
+      "price": 87702.96,
+      "strength": 11139
+    },
+    {
+      "price": 60887.71,
+      "strength": 11081
+    },
+    {
+      "price": 104941.34,
+      "strength": 10181
+    },
+    {
+      "price": 94981.39,
+      "strength": 9801
+    },
+    {
+      "price": 109538.24,
+      "strength": 8903
+    },
+    {
+      "price": 94215.24,
+      "strength": 8887
+    }
+  ],
+  "volatility_profile": {
+    "return_std": 0.00066738,
+    "return_mean": 1.8e-07,
+    "hourly_vol_percentiles": {
+      "p10": 0.00022736,
+      "p25": 0.00032226,
+      "p50": 0.00046803,
+      "p75": 0.00068609,
+      "p90": 0.00098903,
+      "p95": 0.00122338
+    }
+  },
+  "regime_stats": {
+    "30k_60k": {
+      "candle_count": 60145,
+      "avg_close": 57714.41,
+      "avg_volume": 1.692021,
+      "return_std": 0.0009076,
+      "avg_range_pct": 0.0711
+    },
+    "60k_100k": {
+      "candle_count": 660933,
+      "avg_close": 79756.09,
+      "avg_volume": 1.597583,
+      "return_std": 0.00069293,
+      "avg_range_pct": 0.0566
+    },
+    "above_100k": {
+      "candle_count": 307119,
+      "avg_close": 110353.2,
+      "avg_volume": 1.116808,
+      "return_std": 0.00054004,
+      "avg_range_pct": 0.0434
+    }
+  },
+  "recent_context": {
+    "last_price": 63498.88,
+    "last_timestamp": 1781310300,
+    "sma_50": 63520.03,
+    "sma_200": 63491.43,
+    "trend_bias": "bullish",
+    "data_end_date": "2026-06-13 00:25 UTC"
+  },
+  "computed_at": "2026-06-13 14:16:42 UTC"
+}
