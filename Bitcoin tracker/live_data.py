@@ -10,7 +10,7 @@ Supported intervals: 1m, 3m, 5m, 15m, 30m, 1h, 2h, 4h, 1d, 1w
 import time
 import requests
 
-BINANCE_KLINES_URL = "https://api.binance.com/api/v3/klines"
+BINANCE_KLINES_URL = "https://api.binance.us/api/v3/klines"
 SYMBOL = "BTCUSDT"
 
 # Map user-friendly timeframe labels to Binance interval codes
