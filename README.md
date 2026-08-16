@@ -1,4 +1,4 @@
-# Bitcoin Chart Analyzer 📈🤖
+# SignalX (Bitcoin Chart Analyzer) 📈🤖
 
 An advanced, real-time Python and Flask-based application that combines live technical analysis of Bitcoin (BTC) charts with historical context derived from a **7.5-million-row historical dataset**. 
 
